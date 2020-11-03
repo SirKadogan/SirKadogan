@@ -1,16 +1,10 @@
-### Hi ! Thank you for visiting my profile
+### :fire: React-Native | React | Node.js :fire:
 
-:dizzy: My name is Thales Kenne, I'm from Santa Maria/RS, Brazil.
+:dizzy: Hi! My name is Thales Kenne, I'm from Santa Maria/RS, Brazil.
 
 More than a developer, I'm an _entrepreneur_. I look around me and try to find ways I can improve people's lives and that reflects in the way I code. I like building quick apps and failing fast if must be.
 
-> :star: My largest projects are the codes I ran my startups with, ask me if you want to check out the repositories :star:
-
-My favorite stack:
-
-### :fire: React-Native | React | Node.js :fire:
-
-I focus my studies in front end development. I enjoy building interfaces and seeing people interact with the things I build. I believe my career as a developer will lead me to my dream of being a successful entrepreneur.
+> **:star: My largest projects are the codes I ran my startups with, ask me if you want to check out the repositories :star:**
 
 ### About me
 
