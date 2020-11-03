@@ -1,6 +1,6 @@
 ## :fire: React-Native | React | Firebase :fire:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gerjunior)](https://github.com/sirkadogan) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaleskenne/)](https://www.linkedin.com/in/gerjunior/) [![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/8754782?style=flat-square)](https://api.stackexchange.com/2.2/users/8754782?order=desc&sort=reputation&site=stackoverflow)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gerjunior)](https://github.com/sirkadogan) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaleskenne/)](https://www.linkedin.com/in/thaleskenne/) [![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/8754782?style=flat-square)](https://stackoverflow.com/users/8754782/thales-kenne)
 
 > **:star: My largest projects are the codes I ran my startups with, ask me if you want to check out the repositories :star:**
 
