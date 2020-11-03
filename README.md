@@ -1,7 +1,5 @@
 ## :fire: React-Native | React :fire:
 
----
-
 > **:star: My largest projects are the codes I ran my startups with, ask me if you want to check out the repositories :star:**
 
 :dizzy: Hi! My name is Thales Kenne, I'm from Santa Maria/RS, Brazil.
