@@ -6,7 +6,7 @@
 
 More than a developer, I'm an _entrepreneur_. I look around me and try to find ways I can improve people's lives and that reflects in the way I code. I like building quick apps and failing fast if must be.
 
-:email: thaleskenne@hotmail.com </br>
+- Reach me at: :email: thaleskenne@hotmail.com </br>
 
 ## Currently studying
 
@@ -31,20 +31,20 @@ More than a developer, I'm an _entrepreneur_. I look around me and try to find w
   <a href="https://github.com/sirkadogan/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=sirkadogan&&show_icons=true&hide=issues&&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=sirkadogan&&show_icons=true&hide=issues"
     />
   </a>
   <a href="https://github.com/sirkadogan/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirkadogan&&layout=compact&&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirkadogan&&layout=compact"
     />
   </a>
   <a href="https://github.com/sirkadogan/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=SirKadogan&&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=SirKadogan"
     />
   </a>
 </p>
