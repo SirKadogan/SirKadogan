@@ -31,13 +31,14 @@ More than a developer, I'm an _entrepreneur_. I look around me and try to find w
   <a href="https://github.com/sirkadogan/github-readme-stats">
     <img
       align="center"
-      height="170"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirkadogan&&layout=compact"
     />
   </a>
   <a href="https://github.com/sirkadogan/github-readme-stats">
     <img
       align="center"
+      height= "150"
       src="https://github-readme-stats.vercel.app/api?username=sirkadogan&&show_icons=true&hide=issues&custom_title=Github%20Status"
     />
   </a>
