@@ -9,16 +9,12 @@ More than a developer, I'm an _entrepreneur_. I look around me and try to find w
 :email: thaleskenne@hotmail.com </br>
 :computer: https://stackoverflow.com/users/8754782/thales-kenne
 
----
-
-### Currently studying
+## Currently studying
 
 - Bootcamp GoStack 11 - React, React-Native and Node.js
 - MBA in IT Project Management at UniEuropa Business School
 
----
-
-### About me
+## About me
 
 :mortar_board: Bachelor degree in Mechatronics Engineering. </br>
 
