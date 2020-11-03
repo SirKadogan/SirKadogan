@@ -25,5 +25,3 @@ More than a developer, I'm an _entrepreneur_. I look around me and try to find w
 :trophy: I have won or placed well in several entrepreneurship competitions with my startups </br>
 
 :ok_hand: I like to read, watch tv shows and do HEMA/workout in my free time. </br>
-
----
