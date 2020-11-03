@@ -24,3 +24,25 @@ More than a developer, I'm an _entrepreneur_. I look around me and try to find w
 - :trophy: I have won or placed well in several entrepreneurship competitions with my startups </br>
 
 - :ok_hand: I like to read, watch tv shows and do HEMA/workout in my free time. </br>
+
+<p align="center">
+  <a href="https://github.com/sirkadogan/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=sirkadogan&&show_icons=true&hide=issues&&theme=dark"
+    />
+  </a>
+  <a href="https://github.com/sirkadogan/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirkadogan&&layout=compact&&theme=dark"
+    />
+  </a>
+  <a href="https://github.com/sirkadogan/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=SirKadogan&&theme=dark"
+    />
+  </a>
+</p>
