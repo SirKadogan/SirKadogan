@@ -25,6 +25,8 @@ More than a developer, I'm an _entrepreneur_. I look around me and try to find w
 
 - :ok_hand: I like to read, watch tv shows and do HEMA/workout in my free time. </br>
 
+## My stats
+
 <p align="center">
   <a href="https://github.com/sirkadogan/github-readme-stats">
     <img
