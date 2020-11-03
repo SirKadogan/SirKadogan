@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi ! Thank you for visiting my profile
 
-<!--
-**SirKadogan/SirKadogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:dizzy: My name is Thales Kenne, I'm from Santa Maria/RS, Brazil.
 
-Here are some ideas to get you started:
+More than a developer, I'm an _entrepreneur_. I look around me and try to find ways I can improve people's lives and that reflects in the way I code. I like building quick apps and failing fast if must be.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> :star: My largest projects are the codes I ran my startups with, ask me if you want to check out the repositories :star:
+
+My favorite stack:
+
+### :fire: React-Native | React | Node.js :fire:
+
+I focus my studies in front end development. I enjoy building interfaces and seeing people interact with the things I build. I believe my career as a developer will lead me to my dream of being a successful entrepreneur.
+
+### About me
+
+:mortar_board: Bachelor degree in Mechatronics Engineering. </br>
+
+:rocket: My first startup was incubated at the Federal University of Santa Maria
+
+:airplane: Exchange student through Science Without Borders. I studied at Tennessee Tech for a year and later I worked as an Intern at University of Illinois at Chicago. </br>
+
+:trophy: I have won or placed well in several entrepreneurship competitions with my startups
+
+:ok_hand: I like to read, watch tv shows and do HEMA/workout in my free time.
