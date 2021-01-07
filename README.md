@@ -12,6 +12,7 @@ More than a developer, I'm an _entrepreneur_. I look around me and try to find w
 
 - Bootcamp GoStack 11 - React, React-Native and Node.js
 - MBA in IT Project Management at UniEuropa Business School
+- You can view my study plan <a href="https://github.com/SirKadogan/my_study_plan">here</a>
 
 ## About me
 
@@ -25,8 +26,6 @@ More than a developer, I'm an _entrepreneur_. I look around me and try to find w
 
 - :ok_hand: I like to read, watch tv shows and do HEMA/workout in my free time. </br>
 
-## My stats
-
 <p align="center">
   <a href="https://github.com/sirkadogan/github-readme-stats">
     <img
@@ -35,18 +34,18 @@ More than a developer, I'm an _entrepreneur_. I look around me and try to find w
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirkadogan&&layout=compact"
     />
   </a>
-  <a href="https://github.com/sirkadogan/github-readme-stats">
+  <!-- <a href="https://github.com/sirkadogan/github-readme-stats">
     <img
       align="center"
       height= "150"
       src="https://github-readme-stats.vercel.app/api?username=sirkadogan&&show_icons=true&hide=issues&custom_title=Github%20Status"
     />
-  </a>
+  </a> -->
   
-  <a href="https://github.com/sirkadogan/github-readme-stats">
+  <!-- <a href="https://github.com/sirkadogan/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/wakatime?username=SirKadogan"
     />
-  </a>
+  </a> -->
 </p>
