@@ -1,6 +1,6 @@
 ## :fire: React-Native | React | Firebase :fire:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sirkadogan)](https://github.com/sirkadogan) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaleskenne/)](https://www.linkedin.com/in/thaleskenne/) [![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/8754782?style=flat-square)](https://stackoverflow.com/users/8754782/thales-kenne)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sirkadogan)](https://github.com/sirkadogan) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaleskenne/)](https://www.linkedin.com/in/thaleskenne/) <a href="https://stackexchange.com/users/11964731/thales-kenne"><img src="https://stackexchange.com/users/flair/11964731.png" width="208" height="58" alt="profile for Thales Kenne on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Thales Kenne on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 > **:star: My largest projects are the codes I ran my startups with, ask me if you want to check out the repositories :star:**
 
