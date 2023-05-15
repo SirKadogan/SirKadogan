@@ -8,12 +8,6 @@ More than a developer, I'm an _entrepreneur_. I look around me and try to find w
 
 - Reach me at: :email: thaleskenne@hotmail.com </br>
 
-## Currently studying
-
-- Bootcamp GoStack 11 - React, React-Native and Node.js
-- MBA in IT Project Management at UniEuropa Business School
-- You can view my study plan <a href="https://github.com/SirKadogan/my_study_plan">here</a>
-
 ## About me
 
 - :mortar_board: Bachelor degree in Mechatronics Engineering. </br>
