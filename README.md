@@ -1,45 +1,36 @@
-## :fire: React-Native | React | Firebase :fire:
+## 👋 Hi, I'm Thales
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sirkadogan)](https://github.com/sirkadogan) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaleskenne/)](https://www.linkedin.com/in/thaleskenne/) [![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/8754782?style=flat-square)](https://stackoverflow.com/users/8754782/thales-kenne)
+🎯 **Senior Full-Stack JavaScript Engineer** working remotely from Brazil  
+🛠️ I build scalable web apps, dashboards, and internal tools for US-based startups and enterprises  
+🤝 Currently consulting with growing teams in logistics, e-commerce, and AI tooling
 
-> **:star: My largest projects are the codes I ran my startups with, ask me if you want to check out the repositories :star:**
+---
 
-More than a developer, I'm an _entrepreneur_. I look around me and try to find ways I can improve people's lives and that reflects in the way I code. I like building quick apps and failing fast if must be.
+### 💻 What I Work With
 
-- Reach me at: :email: thaleskenne@hotmail.com </br>
+- **Frontend:** React, Next.js, React Native, Tailwind, Chakra UI  
+- **Backend:** Node.js, GraphQL, AWS Lambda, Express  
+- **Data & Infra:** PostgreSQL, Snowflake, DBT, OpenSearch, AWS (S3, SNS, SQS)  
+- **Tooling:** CI/CD, Builder.io, LaunchDarkly, Shopify (Liquid), OpenAI  
+- **Testing:** Jest, React Testing Library  
 
-## About me
+---
 
-- :mortar_board: Bachelor degree in Mechatronics Engineering. </br>
+### 🚀 What I'm Proud Of
 
-- :rocket: My first startup was incubated at the Federal University of Santa Maria </br>
+- Founding my own startups to solve problems for society
+- Helping scale internal logistics systems with custom tools and GraphQL APIs  
+- Migrating legacy native apps to a seamless offline-first React Native experience  
+- Building AI-powered Jira plugins to surface sprint issues *before* clients notice them  
+- Leading frontend quality initiatives that improved dev experience and delivery speed  
 
-- :airplane: Exchange student through Science Without Borders. I studied at Tennessee Tech for a year and later I worked as an Intern at University of Illinois at Chicago. </br>
+---
 
-- :trophy: I have won or placed well in several entrepreneurship competitions with my startups </br>
+### 🧠 About Me
 
-- :ok_hand: I like to read, watch tv shows and do HEMA/workout in my free time. </br>
+I enjoy building things that last, making dev teams faster, and turning chaos into structure.  
+Also into 📚 reading, 🎮 gaming, 🌱 gardening, and 🐕 life with 3 dogs: Charlie, Timóteo, and Chanel.
 
-<p align="center">
-  <a href="https://github.com/sirkadogan/github-readme-stats">
-    <img
-      align="center"
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirkadogan&&layout=compact"
-    />
-  </a>
-  <!-- <a href="https://github.com/sirkadogan/github-readme-stats">
-    <img
-      align="center"
-      height= "150"
-      src="https://github-readme-stats.vercel.app/api?username=sirkadogan&&show_icons=true&hide=issues&custom_title=Github%20Status"
-    />
-  </a> -->
-  
-  <!-- <a href="https://github.com/sirkadogan/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=SirKadogan"
-    />
-  </a> -->
-</p>
+---
+
+📫 Feel free to reach out — I'm always happy to talk shop or interesting ideas!
